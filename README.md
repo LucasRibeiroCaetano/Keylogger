@@ -22,7 +22,7 @@ python my_script.py [-f FILENAME][-h]
 
 ## Options
 
--f Name of the output file
+-f Name of the output file\n
 -h Displays help information
 
 ## Installation
