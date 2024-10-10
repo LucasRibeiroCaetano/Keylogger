@@ -20,6 +20,12 @@ To run the script, simply execute the following command:
 python my_script.py [-f FILENAME][-h]
 ```
 
+## Options
+```bash
+-f Name of the output file
+-h Displays help information
+```
+
 ## Installation
 
 ```bash
